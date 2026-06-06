@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "意图胶囊 Intent Capsule",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pick AI chat messages, copy context in one click, continue in another AI. Supports ChatGPT, Claude, Gemini, DeepSeek, Doubao & more.",
   "permissions": ["storage", "clipboardWrite"],
   "host_permissions": [
