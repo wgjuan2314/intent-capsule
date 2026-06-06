@@ -2,6 +2,8 @@
 
 > 在 AI 对话里逐条勾选你说的话，一键打包带去另一个 AI 继续聊。
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/djefdoiobiefkcnohpjjjclemmbjkdob?label=Chrome%20Web%20Store&color=EB4C89)](https://chromewebstore.google.com/detail/%E6%84%8F%E5%9B%BE%E8%83%B6%E5%9B%8A-intent-capsule/djefdoiobiefkcnohpjjjclemmbjkdob)
+
 一款 Chrome 扩展（Manifest V3）。现有上下文迁移工具像"铲子"——整段对话搬走；意图胶囊是"手术刀"——你选哪条带哪条，默认只摘你自己的问题（用户 prompt 即意图浓缩，噪音最少）。
 
 品牌色 `#EB4C89`，快捷键 `Alt+C` 展开面板。
